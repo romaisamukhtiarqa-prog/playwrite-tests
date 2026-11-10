@@ -1,0 +1,6 @@
+order_id,user_id,course_title,amount,order_date,order_status
+5005,105,AI-Driven QA Engineering,99.99,2026-04-18,NULL
+5004,105,Performance Testing 101,59.99,2026-02-14,Completed
+5003,105,API Testing with Postman,39.99,2025-11-20,Completed
+5002,105,Advanced Test Automation,89.99,2025-09-01,Completed
+5001,105,Playwright Essentials,49.99,2025-06-12,Completed
